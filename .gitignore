@@ -1,0 +1,6 @@
+build/
+archive/
+.DS_Store
+resources/
+packager.temp.json
+/packager.json
